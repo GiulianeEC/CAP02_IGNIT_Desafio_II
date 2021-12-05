@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "",
+      "name": "italiana",
+      "price": "50.00",
+      "description": "macarrao top da giu ",
+      "available": true,
+      "id": 4
     }
   ]
 }
